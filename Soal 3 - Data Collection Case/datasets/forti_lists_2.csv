@@ -1,0 +1,10 @@
+Title,Link
+FTP.Username.XSS,https://www.fortiguard.com/encyclopedia/ips/56486
+HTTP.Suspicious.Headers.With.Special.Characters,https://www.fortiguard.com/encyclopedia/ips/48934
+ReDuh.HTTP.Tunnel,https://www.fortiguard.com/encyclopedia/ips/47580
+Nmap.Script.Scanner,https://www.fortiguard.com/encyclopedia/ips/45360
+MS.Win32KFull.Sys.Information.Disclosure,https://www.fortiguard.com/encyclopedia/ips/42378
+Adobe.Acrobat.Triangle.Object.Memory.Corruption,https://www.fortiguard.com/encyclopedia/ips/39794
+Oracle.Outside.In.Technology.Outside.In.Filter.Buffer.Overflow,https://www.fortiguard.com/encyclopedia/ips/32726
+DNS.BailiWicked.Domain.Attack,https://www.fortiguard.com/encyclopedia/ips/29521
+CHETCPASSWD.Shadow.File.Disclosure,https://www.fortiguard.com/encyclopedia/ips/30116
